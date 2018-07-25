@@ -1,6 +1,18 @@
 # pyvenn
 2 ~ 6 Sets Venn Diagram For Python
 
+
+## Installation
+
+```bash
+git clone https://www.github.com/
+cd pyvenn
+pip install .
+```
+
+
+## Use
+
 Use magic function in ipython notebook:
 ```python
 %matplotlib inline
