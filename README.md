@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-git clone https://www.github.com/
+git clone https://github.com/tanaes/pyvenn.git
 cd pyvenn
 pip install .
 ```
